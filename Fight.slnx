@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Fight.vcxproj" Id="03c491a5-c95f-46a4-b555-8c97b0a4106d" />
+</Solution>
